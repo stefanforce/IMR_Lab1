@@ -1,3 +1,3 @@
 # IMR_Lab1
 
-![Image of dog](https://www.pexels.com/photo/black-and-white-animal-dog-pet-143657/)
+![](https://github.com/stefanforce/IMR_Lab1/blob/master/dog_pic.jpeg)
